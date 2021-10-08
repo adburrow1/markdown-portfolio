@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# this practice is to add emphasis
+
+1. *this is emphasis one*
+    - **this is emphasis two**
